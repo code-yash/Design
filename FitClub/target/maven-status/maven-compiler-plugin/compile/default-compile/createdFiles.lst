@@ -1,0 +1,9 @@
+com\mycompany\fitclub\models\Booking.class
+com\mycompany\fitclub\enumpack\Status.class
+com\mycompany\fitclub\FitClub.class
+com\mycompany\fitclub\managers\ClassManager.class
+com\mycompany\fitclub\managers\UserManager.class
+com\mycompany\fitclub\models\Classes.class
+com\mycompany\fitclub\models\User.class
+com\mycompany\fitclub\enumpack\ClassType.class
+com\mycompany\fitclub\managers\BookingManager.class
