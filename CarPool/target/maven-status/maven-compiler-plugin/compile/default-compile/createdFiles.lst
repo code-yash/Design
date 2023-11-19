@@ -1,0 +1,8 @@
+com\mycompany\carpool\models\Driver.class
+com\mycompany\carpool\managers\RiderManager.class
+com\mycompany\carpool\models\Location.class
+com\mycompany\carpool\CarPool.class
+com\mycompany\carpool\managers\DriverManager.class
+com\mycompany\carpool\managers\TripManager.class
+com\mycompany\carpool\models\Rider.class
+com\mycompany\carpool\models\Trip.class
