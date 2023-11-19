@@ -1,0 +1,12 @@
+com\mycompany\vendingmachine\services\VendingMachineService.class
+com\mycompany\vendingmachine\VendingMachine.class
+com\mycompany\vendingmachine\exceptions\InsufficientBalanceException.class
+com\mycompany\vendingmachine\states\State.class
+com\mycompany\vendingmachine\dao\Inventory.class
+com\mycompany\vendingmachine\exceptions\ProductNotFoundException.class
+com\mycompany\vendingmachine\states\Dispense.class
+com\mycompany\vendingmachine\exceptions\VendingMachineFullException.class
+com\mycompany\vendingmachine\states\NoCoin.class
+com\mycompany\vendingmachine\model\Product.class
+com\mycompany\vendingmachine\states\CoinInserted.class
+com\mycompany\vendingmachine\exceptions\ProductNotAvailableException.class
